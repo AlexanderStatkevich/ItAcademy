@@ -1,4 +1,4 @@
-package by.it_academy.jd2;
+package by.itacademy.jd2;
 
 import org.junit.jupiter.api.Test;
 
