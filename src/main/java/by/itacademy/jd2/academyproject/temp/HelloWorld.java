@@ -1,4 +1,4 @@
-package by.itacademy.jd2;
+package by.itacademy.jd2.academyproject.temp;
 
 public class HelloWorld {
     public static void main(String[] args) {
