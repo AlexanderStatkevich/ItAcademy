@@ -21,6 +21,6 @@ public class HelloWithNameServlet extends HttpServlet {
         resp.setContentType("text/html; charset=UTF-8");
 
         PrintWriter writer = resp.getWriter();
-        writer.write("<p><span style='color:black;'>Hello, " + lastName + " " + firstName + "!</span></p>");
+        writer.write("<p><span style='color:red;'>Hello, " + lastName + " " + firstName + "!</span></p>");
     }
 }
